@@ -17,3 +17,4 @@ MANIFEST\.SKIP$
 nytprof.out
 ^MYMETA.yml$
 ^MYMETA.json$
+^Syntax-Highlight-Engine-Simple-Perl-\d+\..*
