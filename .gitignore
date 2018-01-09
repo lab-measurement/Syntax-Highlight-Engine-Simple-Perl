@@ -11,5 +11,5 @@ Makefile*
 #!MANIFEST.SKIP
 pm_to_blib
 *bak
-Syntax-Highlight-Engine-Simple-Perl-*.tar.gz
+/Syntax-Highlight-Engine-Simple-Perl-*
 
